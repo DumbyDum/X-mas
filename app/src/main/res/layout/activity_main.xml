@@ -8,7 +8,7 @@
 
     <androidx.fragment.app.FragmentContainerView
         android:id="@+id/fragmentContainerView"
-        android:name="com.statnbakespancakes.myapplication.Christmas"
+        android:name="com.statnbakespancakes.happy_new_year.Christmas"
         android:layout_width="0dp"
         android:layout_height="0dp"
         android:layout_marginBottom="100dp"
