@@ -1,4 +1,4 @@
-package com.statnbakespancakes.myapplication;
+package com.statnbakespancakes.happy_new_year;
 
 import org.junit.Test;
 
