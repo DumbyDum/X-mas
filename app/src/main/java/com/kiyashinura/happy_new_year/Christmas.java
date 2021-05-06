@@ -1,4 +1,4 @@
-package com.statnbakespancakes.happy_new_year;
+package com.kiyashinura.happy_new_year;
 
 import android.os.Bundle;
 
