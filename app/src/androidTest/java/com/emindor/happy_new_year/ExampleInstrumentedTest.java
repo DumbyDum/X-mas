@@ -1,4 +1,4 @@
-package com.kiyashinura.happy_new_year;
+package com.emindor.happy_new_year;
 
 import android.content.Context;
 
